@@ -1,0 +1,6 @@
+COL_NAME = 'column name'
+COL_WIDTH = 'width'
+COL_DATATYPE = 'datatype'
+TYPE_TEXT = 'TEXT'
+TYPE_BOOLEAN = 'BOOLEAN'
+TYPE_INTEGER = 'INTEGER'
